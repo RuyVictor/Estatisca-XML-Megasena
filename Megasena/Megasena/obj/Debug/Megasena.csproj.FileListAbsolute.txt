@@ -1,0 +1,8 @@
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\bin\Debug\Megasena.exe.config
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\bin\Debug\Megasena.exe
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\bin\Debug\Megasena.pdb
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\obj\Debug\Megasena.csprojAssemblyReference.cache
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\obj\Debug\Megasena.csproj.CoreCompileInputs.cache
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\obj\Debug\Megasena.exe
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\obj\Debug\Megasena.pdb
+C:\Users\RuyVictor\source\repos\Megasena\Megasena\bin\Debug\MEGASENA.xml
